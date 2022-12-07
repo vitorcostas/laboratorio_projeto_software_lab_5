@@ -2,6 +2,8 @@
 
 # Alunos #
 
-#Leonardo Gorle Almeida
-#Vitor Costa Salem
-#Yollanda Lima Barbosa
+Leonardo Gorle Almeida
+
+Vitor Costa Salem
+
+Yollanda Lima Barbosa
